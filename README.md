@@ -91,9 +91,13 @@ The main objective is to predict pollutant concentrations using **time series fo
 
 ## Repository Structure  
 ├── data/ # Raw and processed datasets
+
 ├── notebooks/ # Jupyter notebooks (Preprocessing, Modeling, Evaluation)
+
 ├── results/ # Plots, metrics, and saved models
+
 ├── README.md # Project overview and documentation
+
 └── requirements.txt # Dependencies
 
 ---
